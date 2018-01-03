@@ -8,13 +8,16 @@ img {
   width: 500px;
 }
 
+h1{
+  font-size: 300%;
+}
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #41b2f4;
-    top: 60;
+    top: 60px;
     width: 100%;
 }
 
