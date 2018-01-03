@@ -6,7 +6,9 @@
 
 ## Description
 
-_This application was created to give me practice building a statis webpage with links and CSS for styling._
+_This application was created to give me practice building a status webpage with links and CSS for styling._
+
+![Screenshot of accommodations page of website.](./images/screenshot.jpg)
 
 ## Setup/Installation Requirements
 
